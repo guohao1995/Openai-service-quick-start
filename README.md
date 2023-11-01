@@ -1,4 +1,6 @@
-# 1. Get ready of your OpenAI service
+ # Quickstart: Build your Node.js OpenAI application on Azure App Service
+ 
+ # 1. Get ready of your OpenAI service
 
 ## If you are using OpenAI API
 1. Create an [OpenAI account](https://platform.openai.com/signup) or [sign in](https://platform.openai.com/login).
