@@ -25,7 +25,6 @@ export default function Home() {
       setResult(data.result);
       setAnimalInput("");
     } catch(error) {
-      // Consider implementing your own error handling logic here //<img src="/dog.png" className={styles.icon} />
       console.error(error);
       alert(error.message);
     }
